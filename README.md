@@ -13,6 +13,7 @@ etc.
 
 - Choosing which players go first
 - Gameplay
+- Showing board
 - Showing who won
 
 
